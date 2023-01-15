@@ -1,0 +1,15 @@
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\bin\Debug\net6.0\Batch20OOPCSharpApp.exe
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\bin\Debug\net6.0\Batch20OOPCSharpApp.deps.json
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\bin\Debug\net6.0\Batch20OOPCSharpApp.runtimeconfig.json
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\bin\Debug\net6.0\Batch20OOPCSharpApp.dll
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\bin\Debug\net6.0\Batch20OOPCSharpApp.pdb
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\obj\Debug\net6.0\Batch20OOPCSharpApp.csproj.AssemblyReference.cache
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\obj\Debug\net6.0\Batch20OOPCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\obj\Debug\net6.0\Batch20OOPCSharpApp.AssemblyInfoInputs.cache
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\obj\Debug\net6.0\Batch20OOPCSharpApp.AssemblyInfo.cs
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\obj\Debug\net6.0\Batch20OOPCSharpApp.csproj.CoreCompileInputs.cache
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\obj\Debug\net6.0\Batch20OOPCSharpApp.dll
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\obj\Debug\net6.0\refint\Batch20OOPCSharpApp.dll
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\obj\Debug\net6.0\Batch20OOPCSharpApp.pdb
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\obj\Debug\net6.0\Batch20OOPCSharpApp.genruntimeconfig.cache
+D:\Code_id\CSharp\OOPCSharpTutorSolution\Batch20OOPCSharpApp\obj\Debug\net6.0\ref\Batch20OOPCSharpApp.dll
